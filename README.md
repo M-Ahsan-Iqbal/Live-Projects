@@ -10,7 +10,7 @@ Each project includes a **brief description, tech stack, and live demo link** to
 ### **1️⃣ Burjsoft Software Solutions**  
 🛍️ An IT company specializing in custom software solutions. I have designed and developed their modern, responsive, and user-friendly website, ensuring a professional online presence.  
 🔗 **Live Demo:** [View Website](https://www.burjsoft.com/home)
-🔹 **Tech Stack:** HTML, CSS/SCSS, Angular, .Net, MySQL
+🔹 **Tech Stack:** HTML, CSS/SCSS, Angular
 🔹 **Role:** Frontend Developer
 
 --- 
@@ -23,7 +23,7 @@ Each project includes a **brief description, tech stack, and live demo link** to
 
 ---
 
-### **3️⃣ GOAL ZERO**
+### **3️⃣ Goal Zero**
 🛍️  Designed and developed the UI for GOAL ZERO, a Health and Safety platform, ensuring a user-friendly and responsive experience.
 🔗 **Live Demo:** [View Website](https://goalzero.app/)
 🔹 **Tech Stack:** HTML, CSS/SCSS, Bootstrap, Angular, PrimeNG
@@ -38,3 +38,23 @@ Each project includes a **brief description, tech stack, and live demo link** to
 🔹 **Role:** Frontend Developer  
 
 ---
+
+### **5️⃣ Nalda Schools**
+🛍️  Designed and developed the complete front end of the Nalda Schools platform, ensuring a modern and intuitive user experience.
+🔗 **Live Demo:** [View Website](https://nalda.com/schools)
+🔹 **Tech Stack:** HTML, CSS/SCSS, Tailwind CSS, Angular
+🔹 **Role:** Frontend Developer  
+
+---
+
+## 💡 About Me  
+I am a **UI Developer** with **3 years of experience**, specializing in **responsive web interfaces, HTML, CSS, SCSS, JavaScript, BootStrap, Tailwind CSS, Material, React MUI, PrimeNG.**  
+
+🔹 **LinkedIn:** [My LinkedIn](www.linkedin.com/in/mu-ahsan-iqbal)
+🔹 **Email:** ahsaniqbal.mnt@gmail.com
+
+---
+
+## 🔥 Want to Collaborate?  
+Feel free to **connect with me** if you’re interested in working together or want to discuss any of these projects!  
+
