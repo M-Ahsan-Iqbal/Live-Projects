@@ -57,8 +57,7 @@ scalability.
  
 
 🔹 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/muhammad-ahsaniqbal)  
-🔹 **Email:** [ahsaniqbal.mnt@gmail.com](mailto:ahsaniqbal.mnt@gmail.com)
----
+🔹 **Email:** [Send Email](https://mail.google.com/mail/?view=cm&fs=1&to=ahsaniqbal.mnt@gmail.com)---
 
 ## 🔥 Want to Collaborate?  
 Feel free to **connect with me** if you’re interested in working together or want to discuss any of these projects!  
