@@ -47,8 +47,14 @@ Each project includes a **brief description, tech stack, and live demo link** to
 
 ---
 
-## 💡 About Me  
-I am a **UI Developer** with **3 years of experience**, specializing in **responsive web interfaces, HTML, CSS, SCSS, JavaScript, BootStrap, Tailwind CSS, Material, React MUI, PrimeNG.**  
+## 💡 About Me 
+MERN Stack Developer with 1.5 years of experience building scalable web applications and
+implementing workflow automation using n8n and third-party integrations (Zendesk, HubSpot,
+CRM systems). Previously worked as a UI Developer with 3+ years of experience, specializing in
+responsive and user-friendly interfaces. Strong understanding of full-stack development,
+enabling end-to-end solution building with a focus on performance, automation, and
+scalability.
+ 
 
 🔹 **LinkedIn:** [My LinkedIn](www.linkedin.com/in/mu-ahsan-iqbal)
 🔹 **Email:** ahsaniqbal.mnt@gmail.com
