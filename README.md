@@ -56,9 +56,8 @@ enabling end-to-end solution building with a focus on performance, automation, a
 scalability.
  
 
-🔹 **LinkedIn:** [My LinkedIn](www.linkedin.com/in/muhammad-ahsaniqbal)
-🔹 **Email:** ahsaniqbal.mnt@gmail.com
-
+🔹 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/muhammad-ahsaniqbal)  
+🔹 **Email:** [ahsaniqbal.mnt@gmail.com](mailto:ahsaniqbal.mnt@gmail.com)
 ---
 
 ## 🔥 Want to Collaborate?  
