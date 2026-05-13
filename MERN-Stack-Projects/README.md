@@ -3,7 +3,6 @@
 A full-stack MERN application built for field sales agents to manage store visits, track SKUs, monitor competitor products, complete surveys, and generate reports.
 
 ## 🚀 Live Demo
-Add your deployed project link here:  
 [Live Demo](https://offlinesales-ksa.air.global/)
 
 ## 📌 Features
