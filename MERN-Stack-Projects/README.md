@@ -1,4 +1,4 @@
-# MERN Stack Sales Visit Management System
+# Offline sales management system
 
 A full-stack MERN application built for field sales agents to manage store visits, track SKUs, monitor competitor products, complete surveys, and generate reports.
 
