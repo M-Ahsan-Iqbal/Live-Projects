@@ -55,6 +55,15 @@ Each project includes a **brief description, tech stack, and live demo link** to
 
 ---
 
+# 🚀 MERN Stack Live Projects
+
+### **7️⃣ Field Sales Management System**  
+🛍️ Designed and developed a comprehensive Field Sales Management System that helps businesses track sales activities, manage field teams, monitor performance, and streamline daily operations through an intuitive and responsive web portal.
+🔗 **Live Demo:** [View Website](https://offlinesales.air.global/sign-in?redirectUrl=/dashboard)
+🔹 **Tech Stack:** HTML, CSS/SCSS, React.js, Node.js, Express.js, MongoDB 
+🔹 **Role:** Full Stack Developer
+
+
 ## 💡 About Me 
 MERN Stack Developer with 1.5 years of experience building scalable web applications and
 implementing workflow automation using n8n and third-party integrations (Zendesk, HubSpot,
