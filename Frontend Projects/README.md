@@ -7,9 +7,9 @@ Each project includes a **brief description, tech stack, and live demo link** to
 
 ## 🌟 Featured Projects  
 
-### **1️⃣ Burjsoft Software Solutions**  
-🛍️ An IT company specializing in custom software solutions. I have designed and developed their modern, responsive, and user-friendly website, ensuring a professional online presence.  
-🔗 **Live Demo:** [View Website](https://www.burjsoft.com/home)
+### **1️⃣ Deal Signal**  
+🛍️ Designed and developed a modern, responsive website for Deal Signal, focusing on clean UI, intuitive navigation, and an optimized user experience across desktop and mobile devices.  
+🔗 **Live Demo:** [View Website](https://www.dealsignal.com/)
 🔹 **Tech Stack:** HTML, CSS/SCSS, Angular
 🔹 **Role:** Frontend Developer
 
@@ -47,6 +47,14 @@ Each project includes a **brief description, tech stack, and live demo link** to
 
 ---
 
+### **6️⃣ Burjsoft Software Solutions**  
+🛍️ I have designed and developed their modern, responsive, and user-friendly website, ensuring a professional online presence.  
+🔗 **Live Demo:** [View Website](https://www.burjsoft.com/home)
+🔹 **Tech Stack:** HTML, CSS/SCSS, Angular
+🔹 **Role:** Frontend Developer
+
+---
+
 ## 💡 About Me 
 MERN Stack Developer with 1.5 years of experience building scalable web applications and
 implementing workflow automation using n8n and third-party integrations (Zendesk, HubSpot,
@@ -58,7 +66,3 @@ scalability.
 
 🔹 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/muhammad-ahsaniqbal)  
 🔹 **Email:** [Send Email](https://mail.google.com/mail/?view=cm&fs=1&to=ahsaniqbal.mnt@gmail.com)---
-
-## 🔥 Want to Collaborate?  
-Feel free to **connect with me** if you’re interested in working together or want to discuss any of these projects!  
-
